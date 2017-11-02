@@ -1,7 +1,6 @@
-## jQuery_Slider
 スライダー系のjQueryとかCSSとか
 
-#### slick
+### slick
 
 ##### ちょっと気になること
 ###### speed: 500,
